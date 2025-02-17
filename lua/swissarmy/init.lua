@@ -4,6 +4,14 @@ function M.msg()
 	print("Msg 3 of 3")
 end
 
+function M.open_notes()
+	vim.cmd("edit /home/chris/cgt/notes/notes.txt")
+end
+
+function M.open_nvim_conf()
+	vim.cmd("edit /home/chris/.config/nvim/init.lua")
+end
+
 M.setup = function(opts)
 	opts = opts or {}
 
