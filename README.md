@@ -32,12 +32,12 @@ require('lazy').setup({
 
 ## Notes
 
-* plugin directory - all of the code that is run on startup. Code in any name file seems to be run.
-* lua directory - holds everything that consumers can require from this plugin.
+* `plugin` directory - all of the code that is run on startup. Code in any name file seems to be run.
+* `lua` directory - holds everything that consumers can require from this plugin.
 
 ## API
 
-Try these lines in ~/.config/nvim/init.lua
+Try these function calls in your `~/.config/nvim/init.lua`
 
 ```shell
 require('swissarmy').msg()
