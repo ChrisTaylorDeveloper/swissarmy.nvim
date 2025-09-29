@@ -31,7 +31,7 @@ require('lazy').setup({
 
 ## Notes
 
-* plugin directory - all of the code that is run on startup.
+* plugin directory - all of the code that is run on startup. Code in any name file seems to be run.
 * lua directory - holds everything that consumers can require from this plugin.
 
 ## API
