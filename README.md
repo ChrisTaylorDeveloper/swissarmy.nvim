@@ -22,6 +22,7 @@ require('lazy').setup({
     -- example settings
     event = 'VimEnter',
     opts = {
+      name = 'chris',
       delay = 0,
       icons = {},
     },
