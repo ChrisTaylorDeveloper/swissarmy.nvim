@@ -1,1 +1,1 @@
-print 'in foo.lua again and again'
+print 'SwissArmy: Runs on startup, because in a plugin dir.'
