@@ -1,1 +1,1 @@
-print 'SwissArmy: Run on startup, because in a plugin dir. Filename not significant.'
+-- print 'SwissArmy: Run on startup, because in a plugin dir. Filename not significant.'

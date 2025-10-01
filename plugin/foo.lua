@@ -1,1 +1,1 @@
-print 'SwissArmy: Runs on startup, because in a plugin dir.'
+-- print 'SwissArmy: Runs on startup, because in a plugin dir.'
